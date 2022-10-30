@@ -1,2 +1,2 @@
 # HRdashboard
-HR dashboard creation using Excel
+Creating popular HR dashboards using Excel
